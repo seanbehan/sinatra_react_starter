@@ -19,6 +19,8 @@ rackup config.ru
 Visit http://localhost:9292
 
 # Extra
-This article helped a lot
 
+These articles helped a lot
+
+- https://www.twilio.com/blog/2015/08/setting-up-react-for-es6-with-webpack-and-babel-2.html
 - https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460
