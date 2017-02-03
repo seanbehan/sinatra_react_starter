@@ -17,3 +17,8 @@ rackup config.ru
 ```
 
 Visit http://localhost:9292
+
+# Extra
+This article helped a lot
+
+- https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460
